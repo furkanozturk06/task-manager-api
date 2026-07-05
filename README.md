@@ -1,4 +1,4 @@
-# Dönem Projesi - Görev Yöneticisi (Task Manager) API
+# Görev Yöneticisi (Task Manager) API
 
 ## Proje Açıklaması
 
